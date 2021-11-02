@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: eac5c26dc4a3be64c9f45b15d391f900
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Chest
+    100004: Default
+    100006: Front
+    100008: Head
+    100010: Hip
+    100012: lBigToe1
+    100014: 'lBigToe2 #0'
+    100016: 'lBigToe2 #1'
+    100018: Left Foot
+    100020: Left Hand
+    100022: Left Shin
+    100024: Left Thigh
+    100026: LeftCollar
+    100028: LeftFore~4
+    100030: LeftShou~3
+    100032: lIndex1
+    100034: lIndex2
+    100036: 'lIndex3 #0'
+    100038: 'lIndex3 #1'
+    100040: lIndexToe1
+    100042: 'lIndexToe2 #0'
+    100044: 'lIndexToe2 #1'
+    100046: lMid1
+    100048: lMid2
+    100050: 'lMid3 #0'
+    100052: 'lMid3 #1'
+    100054: lMidToe1
+    100056: 'lMidToe2 #0'
+    100058: 'lMidToe2 #1'
+    100060: lPinky1
+    100062: lPinky2
+    100064: 'lPinky3 #0'
+    100066: 'lPinky3 #1'
+    100068: lPinkyToe1
+    100070: 'lPinkyToe2 #0'
+    100072: 'lPinkyToe2 #1'
+    100074: lRing1
+    100076: lRing2
+    100078: 'lRing3 #0'
+    100080: 'lRing3 #1'
+    100082: lRingToe1
+    100084: 'lRingToe2 #0'
+    100086: 'lRingToe2 #1'
+    100088: lThumb1
+    100090: lThumb2
+    100092: 'lThumb3 #0'
+    100094: 'lThumb3 #1'
+    100096: lToe
+    100098: 'Neck #0'
+    100100: 'Neck #1'
+    100102: Perspective
+    100104: rBigToe1
+    100106: 'rBigToe2 #0'
+    100108: 'rBigToe2 #1'
+    100110: Respirat3
+    100112: Respirat4
+    100114: Respirat5
+    100116: Respirato
+    100118: //RootNode
+    100120: Right
+    100122: Right Foot
+    100124: Right Hand
+    100126: Right Shin
+    100128: RightCol~0
+    100130: RightFor~2
+    100132: RightSho~1
+    100134: RightThigh
+    100136: rIndex1
+    100138: rIndex2
+    100140: 'rIndex3 #0'
+    100142: 'rIndex3 #1'
+    100144: rIndexToe1
+    100146: 'rIndexToe2 #0'
+    100148: 'rIndexToe2 #1'
+    100150: rMid1
+    100152: rMid2
+    100154: 'rMid3 #0'
+    100156: 'rMid3 #1'
+    100158: rMidToe1
+    100160: 'rMidToe2 #0'
+    100162: 'rMidToe2 #1'
+    100164: rPinky1
+    100166: rPinky2
+    100168: 'rPinky3 #0'
+    100170: 'rPinky3 #1'
+    100172: rPinkyToe1
+    100174: 'rPinkyToe2 #0'
+    100176: 'rPinkyToe2 #1'
+    100178: rRing1
+    100180: rRing2
+    100182: 'rRing3 #0'
+    100184: 'rRing3 #1'
+    100186: rRingToe1
+    100188: 'rRingToe2 #0'
+    100190: 'rRingToe2 #1'
+    100192: rThumb1
+    100194: rThumb2
+    100196: 'rThumb3 #0'
+    100198: 'rThumb3 #1'
+    100200: rToe
+    100202: 'teeth #0'
+    100204: 'teeth #1'
+    100206: 'teeth #2'
+    100208: Top
+    400000: Abdomen
+    400002: Chest
+    400004: Default
+    400006: Front
+    400008: Head
+    400010: Hip
+    400012: lBigToe1
+    400014: 'lBigToe2 #0'
+    400016: 'lBigToe2 #1'
+    400018: Left Foot
+    400020: Left Hand
+    400022: Left Shin
+    400024: Left Thigh
+    400026: LeftCollar
+    400028: LeftFore~4
+    400030: LeftShou~3
+    400032: lIndex1
+    400034: lIndex2
+    400036: 'lIndex3 #0'
+    400038: 'lIndex3 #1'
+    400040: lIndexToe1
+    400042: 'lIndexToe2 #0'
+    400044: 'lIndexToe2 #1'
+    400046: lMid1
+    400048: lMid2
+    400050: 'lMid3 #0'
+    400052: 'lMid3 #1'
+    400054: lMidToe1
+    400056: 'lMidToe2 #0'
+    400058: 'lMidToe2 #1'
+    400060: lPinky1
+    400062: lPinky2
+    400064: 'lPinky3 #0'
+    400066: 'lPinky3 #1'
+    400068: lPinkyToe1
+    400070: 'lPinkyToe2 #0'
+    400072: 'lPinkyToe2 #1'
+    400074: lRing1
+    400076: lRing2
+    400078: 'lRing3 #0'
+    400080: 'lRing3 #1'
+    400082: lRingToe1
+    400084: 'lRingToe2 #0'
+    400086: 'lRingToe2 #1'
+    400088: lThumb1
+    400090: lThumb2
+    400092: 'lThumb3 #0'
+    400094: 'lThumb3 #1'
+    400096: lToe
+    400098: 'Neck #0'
+    400100: 'Neck #1'
+    400102: Perspective
+    400104: rBigToe1
+    400106: 'rBigToe2 #0'
+    400108: 'rBigToe2 #1'
+    400110: Respirat3
+    400112: Respirat4
+    400114: Respirat5
+    400116: Respirato
+    400118: //RootNode
+    400120: Right
+    400122: Right Foot
+    400124: Right Hand
+    400126: Right Shin
+    400128: RightCol~0
+    400130: RightFor~2
+    400132: RightSho~1
+    400134: RightThigh
+    400136: rIndex1
+    400138: rIndex2
+    400140: 'rIndex3 #0'
+    400142: 'rIndex3 #1'
+    400144: rIndexToe1
+    400146: 'rIndexToe2 #0'
+    400148: 'rIndexToe2 #1'
+    400150: rMid1
+    400152: rMid2
+    400154: 'rMid3 #0'
+    400156: 'rMid3 #1'
+    400158: rMidToe1
+    400160: 'rMidToe2 #0'
+    400162: 'rMidToe2 #1'
+    400164: rPinky1
+    400166: rPinky2
+    400168: 'rPinky3 #0'
+    400170: 'rPinky3 #1'
+    400172: rPinkyToe1
+    400174: 'rPinkyToe2 #0'
+    400176: 'rPinkyToe2 #1'
+    400178: rRing1
+    400180: rRing2
+    400182: 'rRing3 #0'
+    400184: 'rRing3 #1'
+    400186: rRingToe1
+    400188: 'rRingToe2 #0'
+    400190: 'rRingToe2 #1'
+    400192: rThumb1
+    400194: rThumb2
+    400196: 'rThumb3 #0'
+    400198: 'rThumb3 #1'
+    400200: rToe
+    400202: 'teeth #0'
+    400204: 'teeth #1'
+    400206: 'teeth #2'
+    400208: Top
+    2000000: Front
+    2000002: Perspective
+    2000004: Right
+    2000006: Top
+    2100000: SistemNapas
+    2100002: inner
+    2100004: outer
+    2100006: TeethBottom
+    2100008: Tongue
+    2100010: Gums
+    2300000: Abdomen
+    2300002: Chest
+    2300004: Head
+    2300006: Hip
+    2300008: lBigToe1
+    2300010: 'lBigToe2 #0'
+    2300012: 'lBigToe2 #1'
+    2300014: Left Foot
+    2300016: Left Hand
+    2300018: Left Shin
+    2300020: Left Thigh
+    2300022: LeftCollar
+    2300024: LeftFore~4
+    2300026: LeftShou~3
+    2300028: lIndex1
+    2300030: lIndex2
+    2300032: 'lIndex3 #0'
+    2300034: 'lIndex3 #1'
+    2300036: lIndexToe1
+    2300038: 'lIndexToe2 #0'
+    2300040: 'lIndexToe2 #1'
+    2300042: lMid1
+    2300044: lMid2
+    2300046: 'lMid3 #0'
+    2300048: 'lMid3 #1'
+    2300050: lMidToe1
+    2300052: 'lMidToe2 #0'
+    2300054: 'lMidToe2 #1'
+    2300056: lPinky1
+    2300058: lPinky2
+    2300060: 'lPinky3 #0'
+    2300062: 'lPinky3 #1'
+    2300064: lPinkyToe1
+    2300066: 'lPinkyToe2 #0'
+    2300068: 'lPinkyToe2 #1'
+    2300070: lRing1
+    2300072: lRing2
+    2300074: 'lRing3 #0'
+    2300076: 'lRing3 #1'
+    2300078: lRingToe1
+    2300080: 'lRingToe2 #0'
+    2300082: 'lRingToe2 #1'
+    2300084: lThumb1
+    2300086: lThumb2
+    2300088: 'lThumb3 #0'
+    2300090: 'lThumb3 #1'
+    2300092: lToe
+    2300094: 'Neck #0'
+    2300096: 'Neck #1'
+    2300098: rBigToe1
+    2300100: 'rBigToe2 #0'
+    2300102: 'rBigToe2 #1'
+    2300104: Respirat3
+    2300106: Respirat4
+    2300108: Respirat5
+    2300110: Respirato
+    2300112: Right Foot
+    2300114: Right Hand
+    2300116: Right Shin
+    2300118: RightCol~0
+    2300120: RightFor~2
+    2300122: RightSho~1
+    2300124: RightThigh
+    2300126: rIndex1
+    2300128: rIndex2
+    2300130: 'rIndex3 #0'
+    2300132: 'rIndex3 #1'
+    2300134: rIndexToe1
+    2300136: 'rIndexToe2 #0'
+    2300138: 'rIndexToe2 #1'
+    2300140: rMid1
+    2300142: rMid2
+    2300144: 'rMid3 #0'
+    2300146: 'rMid3 #1'
+    2300148: rMidToe1
+    2300150: 'rMidToe2 #0'
+    2300152: 'rMidToe2 #1'
+    2300154: rPinky1
+    2300156: rPinky2
+    2300158: 'rPinky3 #0'
+    2300160: 'rPinky3 #1'
+    2300162: rPinkyToe1
+    2300164: 'rPinkyToe2 #0'
+    2300166: 'rPinkyToe2 #1'
+    2300168: rRing1
+    2300170: rRing2
+    2300172: 'rRing3 #0'
+    2300174: 'rRing3 #1'
+    2300176: rRingToe1
+    2300178: 'rRingToe2 #0'
+    2300180: 'rRingToe2 #1'
+    2300182: rThumb1
+    2300184: rThumb2
+    2300186: 'rThumb3 #0'
+    2300188: 'rThumb3 #1'
+    2300190: rToe
+    2300192: 'teeth #0'
+    2300194: 'teeth #1'
+    2300196: 'teeth #2'
+    3300000: Abdomen
+    3300002: Chest
+    3300004: Head
+    3300006: Hip
+    3300008: lBigToe1
+    3300010: 'lBigToe2 #0'
+    3300012: 'lBigToe2 #1'
+    3300014: Left Foot
+    3300016: Left Hand
+    3300018: Left Shin
+    3300020: Left Thigh
+    3300022: LeftCollar
+    3300024: LeftFore~4
+    3300026: LeftShou~3
+    3300028: lIndex1
+    3300030: lIndex2
+    3300032: 'lIndex3 #0'
+    3300034: 'lIndex3 #1'
+    3300036: lIndexToe1
+    3300038: 'lIndexToe2 #0'
+    3300040: 'lIndexToe2 #1'
+    3300042: lMid1
+    3300044: lMid2
+    3300046: 'lMid3 #0'
+    3300048: 'lMid3 #1'
+    3300050: lMidToe1
+    3300052: 'lMidToe2 #0'
+    3300054: 'lMidToe2 #1'
+    3300056: lPinky1
+    3300058: lPinky2
+    3300060: 'lPinky3 #0'
+    3300062: 'lPinky3 #1'
+    3300064: lPinkyToe1
+    3300066: 'lPinkyToe2 #0'
+    3300068: 'lPinkyToe2 #1'
+    3300070: lRing1
+    3300072: lRing2
+    3300074: 'lRing3 #0'
+    3300076: 'lRing3 #1'
+    3300078: lRingToe1
+    3300080: 'lRingToe2 #0'
+    3300082: 'lRingToe2 #1'
+    3300084: lThumb1
+    3300086: lThumb2
+    3300088: 'lThumb3 #0'
+    3300090: 'lThumb3 #1'
+    3300092: lToe
+    3300094: 'Neck #0'
+    3300096: 'Neck #1'
+    3300098: rBigToe1
+    3300100: 'rBigToe2 #0'
+    3300102: 'rBigToe2 #1'
+    3300104: Respirat3
+    3300106: Respirat4
+    3300108: Respirat5
+    3300110: Respirato
+    3300112: Right Foot
+    3300114: Right Hand
+    3300116: Right Shin
+    3300118: RightCol~0
+    3300120: RightFor~2
+    3300122: RightSho~1
+    3300124: RightThigh
+    3300126: rIndex1
+    3300128: rIndex2
+    3300130: 'rIndex3 #0'
+    3300132: 'rIndex3 #1'
+    3300134: rIndexToe1
+    3300136: 'rIndexToe2 #0'
+    3300138: 'rIndexToe2 #1'
+    3300140: rMid1
+    3300142: rMid2
+    3300144: 'rMid3 #0'
+    3300146: 'rMid3 #1'
+    3300148: rMidToe1
+    3300150: 'rMidToe2 #0'
+    3300152: 'rMidToe2 #1'
+    3300154: rPinky1
+    3300156: rPinky2
+    3300158: 'rPinky3 #0'
+    3300160: 'rPinky3 #1'
+    3300162: rPinkyToe1
+    3300164: 'rPinkyToe2 #0'
+    3300166: 'rPinkyToe2 #1'
+    3300168: rRing1
+    3300170: rRing2
+    3300172: 'rRing3 #0'
+    3300174: 'rRing3 #1'
+    3300176: rRingToe1
+    3300178: 'rRingToe2 #0'
+    3300180: 'rRingToe2 #1'
+    3300182: rThumb1
+    3300184: rThumb2
+    3300186: 'rThumb3 #0'
+    3300188: 'rThumb3 #1'
+    3300190: rToe
+    3300192: 'teeth #0'
+    3300194: 'teeth #1'
+    3300196: 'teeth #2'
+    4300000: Respirat5
+    4300002: Respirat4
+    4300004: Respirat3
+    4300006: Respirato
+    4300008: Head
+    4300010: Hip
+    4300012: Abdomen
+    4300014: Chest
+    4300016: 'Neck #1'
+    4300018: 'Neck #0'
+    4300020: 'teeth #2'
+    4300022: 'teeth #1'
+    4300024: 'teeth #0'
+    4300026: RightCol~0
+    4300028: RightSho~1
+    4300030: RightFor~2
+    4300032: Right Hand
+    4300034: rThumb1
+    4300036: rThumb2
+    4300038: 'rThumb3 #1'
+    4300040: 'rThumb3 #0'
+    4300042: rIndex1
+    4300044: rIndex2
+    4300046: 'rIndex3 #1'
+    4300048: 'rIndex3 #0'
+    4300050: rMid1
+    4300052: rMid2
+    4300054: 'rMid3 #1'
+    4300056: 'rMid3 #0'
+    4300058: rRing1
+    4300060: rRing2
+    4300062: 'rRing3 #1'
+    4300064: 'rRing3 #0'
+    4300066: rPinky1
+    4300068: rPinky2
+    4300070: 'rPinky3 #1'
+    4300072: 'rPinky3 #0'
+    4300074: LeftCollar
+    4300076: LeftShou~3
+    4300078: LeftFore~4
+    4300080: Left Hand
+    4300082: lThumb1
+    4300084: lThumb2
+    4300086: 'lThumb3 #1'
+    4300088: 'lThumb3 #0'
+    4300090: lIndex1
+    4300092: lIndex2
+    4300094: 'lIndex3 #1'
+    4300096: 'lIndex3 #0'
+    4300098: lMid1
+    4300100: lMid2
+    4300102: 'lMid3 #1'
+    4300104: 'lMid3 #0'
+    4300106: lRing1
+    4300108: lRing2
+    4300110: 'lRing3 #1'
+    4300112: 'lRing3 #0'
+    4300114: lPinky1
+    4300116: lPinky2
+    4300118: 'lPinky3 #1'
+    4300120: 'lPinky3 #0'
+    4300122: RightThigh
+    4300124: Right Shin
+    4300126: Right Foot
+    4300128: rToe
+    4300130: rBigToe1
+    4300132: 'rBigToe2 #1'
+    4300134: 'rBigToe2 #0'
+    4300136: rIndexToe1
+    4300138: 'rIndexToe2 #1'
+    4300140: 'rIndexToe2 #0'
+    4300142: rMidToe1
+    4300144: 'rMidToe2 #1'
+    4300146: 'rMidToe2 #0'
+    4300148: rRingToe1
+    4300150: 'rRingToe2 #1'
+    4300152: 'rRingToe2 #0'
+    4300154: rPinkyToe1
+    4300156: 'rPinkyToe2 #1'
+    4300158: 'rPinkyToe2 #0'
+    4300160: Left Thigh
+    4300162: Left Shin
+    4300164: Left Foot
+    4300166: lToe
+    4300168: lBigToe1
+    4300170: 'lBigToe2 #1'
+    4300172: 'lBigToe2 #0'
+    4300174: lIndexToe1
+    4300176: 'lIndexToe2 #1'
+    4300178: 'lIndexToe2 #0'
+    4300180: lMidToe1
+    4300182: 'lMidToe2 #1'
+    4300184: 'lMidToe2 #0'
+    4300186: lRingToe1
+    4300188: 'lRingToe2 #1'
+    4300190: 'lRingToe2 #0'
+    4300192: lPinkyToe1
+    4300194: 'lPinkyToe2 #1'
+    4300196: 'lPinkyToe2 #0'
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gums
+    second: {fileID: 2100000, guid: cdee2127deed14144ad2f882bbb0b5c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SistemNapas
+    second: {fileID: 2100000, guid: d59a4901c35e59e4094ce4065a5c3f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TeethBottom
+    second: {fileID: 2100000, guid: 20f247ebffe1e6e47a89cb7b0c52f788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tongue
+    second: {fileID: 2100000, guid: 7996a009428fb604f9b77237e7d2e4fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inner
+    second: {fileID: 2100000, guid: 4dd7ff17d9fba2f4d8355885696c0546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: outer
+    second: {fileID: 2100000, guid: 7ac51f71dba941b4fb61b6bede4c4926, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Respira1
+    second: {fileID: 2800000, guid: 919b06c64a13654408184bc563e45f77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Respirat
+    second: {fileID: 2800000, guid: 7ebf71bece62fba46b82f7e72310f7b9, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
